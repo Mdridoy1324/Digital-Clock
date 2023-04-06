@@ -1,6 +1,10 @@
 /*
 This function gets the current time from the user's device and displays it on a web page as a digital clock.
 */
+
+
+
+
 function showTime(){
     // Create a new Date object to get the current time from the user's device.
     var date = new Date();
